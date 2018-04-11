@@ -17,6 +17,7 @@ public class Aula_05{
         int subtrai = x-y;
         int multiplica = x*y;
         int dividir = x/y;
+        int resto = x%y;
         
         
         //Exibe na tela do usuário
@@ -24,6 +25,7 @@ public class Aula_05{
         System.out.println("A subtração de x com y: " + subtrai);
         System.out.println("A multiplicação de x com y: " + multiplica);
         System.out.println("A divisão de x com y: " + dividir);
+        System.out.println("O resto da divisão de x com y: " + resto);
     }
     
     
