@@ -1,3 +1,4 @@
+//Projeto contém pacotes(package), pacotes contém Classes(Class), Classes contém Variáveis e métodos
 package aulas;
 
 //Criando a classe 
