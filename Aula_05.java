@@ -26,6 +26,7 @@ public class Aula_05{
         System.out.println("A multiplicação de x com y: " + multiplica);
         System.out.println("A divisão de x com y: " + dividir);
         System.out.println("O resto da divisão de x com y: " + resto);
+        
     }
     
     
