@@ -16,6 +16,7 @@ public class Aula_17 {
         System.out.println("Qual a sua idade: ");
         int idade = input.nextInt();
         System.out.println("Nome completo: " + primeiroNome + " " + ultimoNome + "\nIdade: " + idade); 
+        
     }
     
 }
