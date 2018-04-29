@@ -15,6 +15,8 @@ public class Aula_18 {
         System.out.println("Qual a sua idade: ");
         int idade = input.nextInt();
     
+        //IF ELSE - São operadores de comparação.
+        
         if(idade<1){
             System.out.println("Idade informada não é válida!"); 
         } else if (idade<18){
