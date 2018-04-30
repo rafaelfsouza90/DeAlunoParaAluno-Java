@@ -13,6 +13,8 @@ public class Aula_25 {
         int numeroSecreto = random.nextInt(); //Gerar o número aleatório através do objeto Random
         long chute = 0; //Variável vai conter o valor que o usuário estiver chutando.
         
+        //Verifica qual o o número aleatório que foi gerado.
+        //System.out.println(numeroSecreto);
         System.out.println(numeroSecreto);
         while(tentativas>0 && acertou == false){
             System.out.println("Qual o seu chute?");
