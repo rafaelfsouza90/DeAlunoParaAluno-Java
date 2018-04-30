@@ -31,9 +31,10 @@ public class Aula_25 {
                 --tentativas;
                     System.out.println("Número muito grande\n" + tentativas + " Tentativas restantes");
             
+            }
+        
+        
         }
-        
-        
-    }
     
+    }
 }
